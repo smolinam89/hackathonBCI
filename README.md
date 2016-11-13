@@ -1,0 +1,2 @@
+# hackathonBCI
+Proyecto Hackathon BCI
